@@ -1,0 +1,13 @@
+{
+  "profile": "Profile",
+  "name": "Name",
+  "enterName": "Enter name",
+  "update": "Update",
+  "bill": "Bill",
+  "history": "History",
+  "planning": "Planning",
+  "newRecord": "New record",
+  "categories": "Categories",
+  "detailRecord": "Record details",
+  "logout": "You have logged out"
+}
